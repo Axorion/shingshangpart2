@@ -1,4 +1,4 @@
-import exceptions.*;
+/*import exceptions.*;
 import model.game.Game;
 import model.board.Board;
 import observers.EndGameObserver;
@@ -129,3 +129,4 @@ public class MainTerminal {
         }
     }
 }
+*/

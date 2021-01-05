@@ -25,4 +25,8 @@ public class Portal extends Square{
                 :
                 color+"|   |\u001B[0m";
     }
+
+	public int getTeamId() {
+		return teamId;
+	}
 }
